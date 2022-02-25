@@ -14,3 +14,4 @@ The router watches the url, when it changes it prevents the browser from sending
 
 
 ## Fullstack capabilities
+We don't only have a client side code but we also have stand alone back end code(that could reach out to a database or work with the file system). This allows us to easily implement authentication, add or retrieve file from a database...
