@@ -23,4 +23,4 @@ Type ```npx create-next-app@latest``` and follow the prompts to create the proje
 ## Next.js project structure
 ![image](https://user-images.githubusercontent.com/80905254/155861302-80295003-c3dc-4d79-856b-65d9a14fcd79.png)
 
-depenedencies are defined in package.json. The dependencies defined in package.json and the their dependencies are stored in node_modules. Use ```npm install``` to install the dependencies into your project.
+Depenedencies are defined in package.json. The dependencies defined in package.json and the their dependencies are stored in node_modules directory. Use ```npm install``` to install the dependencies into your project. styles has css and public holds public resources, such as images. In a normal a regular react app you might find an index.html in the public folder, in a next.js react app you don't have it because next.js has built in pre-rendering. In the pages folder the file based routing is set up.
