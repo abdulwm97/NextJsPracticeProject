@@ -32,5 +32,5 @@ In a normal a regular react app you might find an index.html in the public folde
 In the pages folder the file based routing is set up.
 - One of the pages included will be index.js and this will be the root page
 
-##How to start development server
+## How to start development server
 ```npm run dev``` starts the development server
