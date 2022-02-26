@@ -21,4 +21,6 @@ We don't only have a client side code but we also have stand alone back end code
 Type ```npx create-next-app@latest``` and follow the prompts to create the project. It creates a base folder and installs all the core dependencies
 
 ## Next.js project structure
+![image](https://user-images.githubusercontent.com/80905254/155861302-80295003-c3dc-4d79-856b-65d9a14fcd79.png)
+
 depenedencies are defined in package.json. The dependencies defined in package.json and the their dependencies are stored in node_modules. Use ```npm install``` to install the dependencies into your project.
