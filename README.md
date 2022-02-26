@@ -30,3 +30,7 @@ styles has css and public holds public resources, such as images.
 In a normal a regular react app you might find an index.html in the public folder, in a next.js react app you don't have it because next.js has built in pre-rendering. 
 #### Pages
 In the pages folder the file based routing is set up.
+- One of the pages included will be index.js and this will be the root page
+
+##How to start development server
+```npm run dev``` starts the development server
