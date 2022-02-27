@@ -33,7 +33,7 @@ In the pages folder the file based routing is set up.
 - One of the pages included will be index.js and this will be the root page
 
 ## Dynamic paths
-Allows us to display different content on the same page by extending the path. To implement this you add `[]` at the beginning of the file name
+Allows us to display different content on the same page by extending the path. To implement this you add `[NameOfFile]` at the beginning of the file name
 
 ## How to start development server
 ```npm run dev``` starts the development server
