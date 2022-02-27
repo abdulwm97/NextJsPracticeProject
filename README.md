@@ -32,5 +32,8 @@ In a normal a regular react app you might find an index.html in the public folde
 In the pages folder the file based routing is set up.
 - One of the pages included will be index.js and this will be the root page
 
+## Dynamic paths
+Allows us to display different content on the same page by extending the path. To implement this you add `[]` at the beginning of the file name
+
 ## How to start development server
 ```npm run dev``` starts the development server
